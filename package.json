@@ -17,8 +17,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "browserify-aes": "^1.2.0",
-    "webbluetooth": "^1.0.6"
+    "browserify-aes": "^1.2.0"
   },
   "devDependencies": {
     "ecstatic": "^3.2.1",

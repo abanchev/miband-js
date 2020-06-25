@@ -15,3 +15,4 @@ node_modules
 public/webapp.bundle.*
 rollup.build.css
 package-lock.json
+yarn.lock
